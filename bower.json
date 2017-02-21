@@ -1,0 +1,21 @@
+{
+  "name": "recipebox",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Frank McCoy <frankmccoy.d@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "recipes": "git@bitbucket.org:mcbc/recipes-files.git"
+  }
+}
