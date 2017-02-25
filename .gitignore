@@ -10,3 +10,5 @@ Homestead.yaml
 .env
 
 /resources/views
+
+app/Recipe

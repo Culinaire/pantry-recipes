@@ -1,0 +1,12 @@
+.recipe {
+  ul, ol {
+    margin:0px;
+    padding:0px;
+  }
+
+  ul.ingredients,
+  ul.ingredients li, {
+    list-style-type: none !important;
+  }
+
+}

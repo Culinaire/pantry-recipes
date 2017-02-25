@@ -13,4 +13,4 @@ const { mix } = require('laravel-mix');
 
 mix.js('resources/assets/js/app.js', 'public/js')
    .sass('resources/assets/sass/app.scss', 'public/css')
-   .copy('bower_components/recipes/src/recipes/', 'storage/app/devrecipes');
+   //.copy('bower_components/recipes/src/recipes/batch/', 'storage/app/devrecipes');
