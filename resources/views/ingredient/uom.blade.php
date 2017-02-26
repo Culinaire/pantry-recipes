@@ -1,0 +1,1 @@
+<span class="ing-uom">{{ $uom }}</span>

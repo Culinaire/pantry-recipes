@@ -1,0 +1,1 @@
+<span class="ing-qty">{{ $qty or "&nbsp;" }}</span>
